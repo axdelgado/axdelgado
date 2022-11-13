@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **alvin.delgado@yale.edu**
 
-- ⚡ Fun fact **I'm slowly picking pottery!**
+- ⚡ Fun fact: **I'm slowly picking pottery!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
