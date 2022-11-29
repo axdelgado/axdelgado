@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **about the impacts of AI on economics and innovation, and the geometry behind linear modeling.**
 
-- 📫 How to reach me **alvin.delgado@yale.edu**
+- 📫 How to reach me: **alvin.delgado@yale.edu**
 
-- ⚡ Fun fact: **I'm slowly picking pottery!**
+- ⚡ Fun fact: **I'm trying to learn pottery!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
