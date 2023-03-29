@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alvin!</h1>
 <h3 align="center">A curious student majoring in Economics and Statistics & Data Science at Yale University</h3>
 
-- 🔭 I’m currently working on [a Tobin Research Project on statistical discrimination](https://github.com/axdelgado/statdiscrimination)
+- 🔭 I’m currently working on [a Tobin Research Project](https://github.com/axdelgado/statdiscrimination) on statistical discrimination, as well as my [senior thesis](https://github.com/axdelgado/seniorproject) on how racial/ethnic diversity may impact the gender pay gap.
 
 - 🌱 I’m currently learning **about the impacts of AI on economics and innovation, and the geometry behind linear modeling.**
 
