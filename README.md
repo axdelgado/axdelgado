@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a Tobin Research Project](https://github.com/axdelgado/statdiscrimination) on statistical discrimination, as well as my [senior thesis](https://github.com/axdelgado/seniorproject) on how racial/ethnic diversity may impact the gender pay gap.
 
-- 🌱 I’m currently learning **about the impacts of AI on economics and innovation, and the geometry behind linear modeling.**
+- 🌱 I’m currently taking courses on **information theory and the US banking system.**
 
 - 📫 How to reach me: **alvin.delgado@yale.edu**
 
